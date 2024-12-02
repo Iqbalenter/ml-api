@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pillow
+firebase-admin
+google-cloud-firestore
+python-jose
+pyjwt
+pytz
+python-multipart
